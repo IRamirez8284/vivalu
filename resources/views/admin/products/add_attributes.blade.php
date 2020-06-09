@@ -94,7 +94,7 @@
                     <td class="center">
                       <input type="submit" value="Update" class="btn btn-primary btn-mini" />
                       <?php /* <a rel="{{ $attribute->id }}" rel1="delete-attribute" href="javascript:" class="btn btn-danger btn-mini deleteRecord">Delete</a> */ ?>
-                      <a href="{{ url('admin/delete-attribute/'.$attribute->id) }}" class="btn btn-danger btn-mini">Delete</a>
+                      <a href="{{ url('admin/delete-attribute/'.$attribute->id) }}" class="btn btn-danger btn-mini">Deletedd</a>
                     </td>
 
                   </tr>
