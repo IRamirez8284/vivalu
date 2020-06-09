@@ -3,7 +3,7 @@
 <?php use App\Product; ?>
 <section>
 		<div class="container">
-			<!-- dasfa -->
+			<!-- dasfakljk -->
 			<div class="row">
 			@if(Session::has('flash_message_success'))
 	            <div class="alert alert-success alert-block">
